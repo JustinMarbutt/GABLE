@@ -1,0 +1,1 @@
+This is a graphics program that generates 3-D models of plants based on mathmatical grammars. It was a project for my undergraduate Senior graphics class and I keep coming back to working on for fun.
